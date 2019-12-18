@@ -10,4 +10,4 @@ If the distance between the object and the sensor is less than 30 centimeter the
 ## Components Required
 1) ESP8266WiFi<br/>
 2) Servo Motor<br/>
-3) Ultrasonuc Sersor<br/>
+3) Ultrasonic Sersor<br/>
